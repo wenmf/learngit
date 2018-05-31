@@ -4,3 +4,4 @@ Git is my learning
 add a  version
 area jiesao
 add a line
+first update
